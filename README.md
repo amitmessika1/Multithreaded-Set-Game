@@ -42,7 +42,7 @@ Features of the UI:
 
 Example game screen:
 
-![Game UI](ui_example.png)
+![Game UI](set-game-ui.png)
 
 ---
 
