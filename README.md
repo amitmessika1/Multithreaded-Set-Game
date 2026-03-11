@@ -178,16 +178,17 @@ mvn clean compile exec:java
 
 ## Project Structure
 
-
-src/main/java/bguspl/set/ex
-Dealer.java
-Player.java
-Table.java
+```
+src/
+└── main/java/bguspl/set/ex
+    ├── Dealer.java
+    ├── Player.java
+    └── Table.java
 
 src/test
 
 pom.xml
-
+```
 
 ---
 
