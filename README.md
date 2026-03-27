@@ -1,4 +1,4 @@
-![Set Game UI](https://link-to-your-image)
+![Set Game UI](https://github.com/amitmessika1/Multithreaded-Set-Game/raw/main/set-game-ui.jpg))
 # Set Card Game 
 
 A multi-threaded implementation of the **Set card game** written in Java.
